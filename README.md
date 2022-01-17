@@ -9,3 +9,6 @@ This repository contains samples of my writing from past lab reports and other p
 
 3. [Sugars & Protein Stability](https://github.com/entzk/Written-Work/blob/main/Uploads/Trehalose%20vs%20Other%20Sugars%20for%20Protein%20Stability.pdf)
   - Brief research summary about trehalose and its use for protein stability. Written in July 2020
+
+4. [Poem Annotation Assignment](https://github.com/entzk/Written-Work/blob/main/Uploads/English%201AA3%20Poem%20Annotation.pdf)
+ - Annotation of a poem for a first-year English course assignment completed in 2019
