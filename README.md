@@ -5,7 +5,7 @@ This repository contains samples of my writing from past lab reports and other p
   - Written November 2021 for CHEM 3LA3 (interdisciplinary laboratory course) in JACS publication-style
 
 2. [Sample Slides from Thesis Project](https://github.com/entzk/Written-Work/blob/main/Uploads/Sample%20Presentation.pdf)
- - Introduction slides for a research update on my thesis project made for a 30 minute presentation in November 2021
+ - Introduction slides for a research update on my thesis project made for a 30 minute presentation in November 2021. 
 
 3. [Sugars & Protein Stability](https://github.com/entzk/Written-Work/blob/main/Uploads/Trehalose%20vs%20Other%20Sugars%20for%20Protein%20Stability.pdf)
   - Brief research summary about trehalose and its use for protein stability. Written in July 2020
